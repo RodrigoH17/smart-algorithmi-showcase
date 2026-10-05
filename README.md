@@ -5,7 +5,7 @@
 > results. A demo video is available on request.
 
 Final degree project (Computer Engineering, grade 18/20), developed as a pair with
-André Benquerer. The goal was a modular AI tutoring system that helps students learn
+[André Benquerer](https://github.com/Benquerer).. The goal was a modular AI tutoring system that helps students learn
 introductory programming on the **Algorithmi** platform, using a Socratic approach:
 guiding the student with questions instead of handing out solutions. All models run
 locally.
@@ -48,8 +48,8 @@ A pipeline that turns platform exercises into specialised models:
   with Ollama
 - Flask dashboard to inspect and compare training runs
 
-Base models compared: Qwen2.5 Coder 7B, Qwen2.5 Instruct 7B, Mistral 7B, Codestral 22B
-and Llama 3.2 1B. Qwen2.5 Coder 7B achieved the best validation loss (0.127).
+Some of the base models compared: Qwen2.5 Coder 7B, Qwen2.5 Instruct 7B, Mistral 7B, Codestral 22B
+and Llama 3.2 1B.
 
 ## What we learned
 
