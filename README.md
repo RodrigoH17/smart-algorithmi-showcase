@@ -4,7 +4,7 @@
 > Universidade Politécnica de Tomar. This page describes the architecture and
 > results. A demo video is available on request.
 
-Final degree project (Computer Engineering, grade 18/20), developed as a pair with
+Final degree project (grade 18/20), developed as a pair with
 [André Benquerer](https://github.com/Benquerer). 
 
 The goal was a modular AI tutoring system that helps students learn
